@@ -1,1 +1,2 @@
-This is branch 3
+
+This is branch 1 and branch 2
